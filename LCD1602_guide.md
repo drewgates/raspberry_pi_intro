@@ -215,4 +215,4 @@ mylcd = I2C_LCD_driver.lcd()
 mylcd.lcd_display_string("Hello World!", 1)
 ```
 
-Looking for more display ideas? [Click here](http://spark.i.ng/lcd1602).
+Looking for more display ideas? [Click here](http://spark.i.ng/pi1602).
