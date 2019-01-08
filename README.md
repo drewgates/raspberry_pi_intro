@@ -11,8 +11,13 @@ This repository will contain notes, images, and code samples for MakerspaceCT's 
 
 ## Scratch 2
 
+Coming soon.
 
 ## bash (bourne-again shell)
+
+### Hello, World!
+`echo "Hello, World!"`
+
 ### Executing a bash script.
 ```
 bash blink.sh
@@ -44,6 +49,9 @@ So spaces after the shebang have been around for quite a while, and indeed, Denn
 Note that early versions of Unix had a limit of 16 characters in this interpreter line, so you couldn’t have an arbitrary amount of whitespace there. This restriction no longer applies in modern kernels
 
 ## Python
+
+### Hello, World!
+`print("Hello, World!")`
 
 ### Executing a python script.
 ```
