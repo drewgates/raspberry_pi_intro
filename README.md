@@ -1,6 +1,6 @@
 # Intro to the Raspberry Pi
 
-* [LCD1602 Notes](./LCD1602_guide)
+* [LCD1602 Notes](./LCD1602_guide.md)
 
 
 This repository will contain notes, images, and code samples for MakerspaceCT's Intro to the Raspberry Pi course.
