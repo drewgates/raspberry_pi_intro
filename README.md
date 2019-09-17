@@ -86,6 +86,8 @@ Open the IDLE IDE for Python (preloaded on your Raspberry Pi), which includes a 
 ## What to buy:
 * [Raspberry Pi 3 Model B+](https://www.arrow.com/en/products/raspberrypi3b/raspberry-pi-foundation) - this is the latest (and most powerful) Raspberry Pi computer.
 
+**NOTE: As of Spring 2019, this is no longer the case. The Raspberry Pi 4 is now available (and supports dual displays and substantial additional processing power and RAM). The Smraza kit will still work with the Pi4, but the Raspberry Pi 4 does require a USB-C power supply [(official supply recommended)](https://bgr.com/2019/07/10/raspberry-pi-4-usb-c-charging-issue-how-to-fix-the-power-problem/)**
+
 ### You'll also need
 
 * [Smraza Starter Kit](https://www.amazon.com/Smraza-Starter-Ultrasonic-Distance-Raspberry/dp/B01MATM4XF/ref=sr_1_2?ie=UTF8&qid=1546989796&sr=8-2&keywords=smraza+raspberry+pi+arduino) - While this is the kit used in class, it's not necessarily better than any similar kit. I like this kit specifically because it includes the ribbon cable and T-Plus breakout board for connecting the GPIO pins to your breadboard.
