@@ -9,10 +9,30 @@ This repository will contain notes, images, and code samples for MakerspaceCT's 
 * bash
 * Python
 
-## Scratch 2
+## Scratch2
 
-Coming soon.
+Scratch2 is a block-based, visual programming language developed by the MIT Media Lab's Lifelong Kindergarten Group. It is targeted primarily at children, teaching programming structure without the need for complex syntax.
 
+Scratch3 was released in early 2019, but browser-based-only at this time.
+
+### Get started:
+Start by opening Scratch2
+
+*Raspberry Menu -> Programming -> Scratch2*
+
+Most blocks are color-coded by category. You can see which categories the blocks in each example came from my looking at the color-coded bar next to the category names.
+
+![scratch2 menu visualization](img/1_pi_menu_scratch2.png)
+
+![scratch2 screenshot](img/2_scratch2_full_screen.png)
+
+![scratch2 screenshot](img/3_scratch2_hello_world_program_zoom.png)
+
+![scratch2 screenshot](img/4_scratch2more_blocks.png)
+
+![scratch2 screenshot](img/5_scratch2_pi_gpio.png)
+
+![scratch2 screenshot](img/6_scratch2_blink.png)
 ## bash (bourne-again shell)
 
 ### Hello, World!
