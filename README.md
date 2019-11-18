@@ -119,6 +119,9 @@ Open the IDLE IDE for Python (preloaded on your Raspberry Pi), which includes a 
 * USB Keyboard/Mouse - I like the [Logitech K400](https://www.amazon.com/Logitech-Wireless-Keyboard-Control-Touchpad/dp/B014EUQOGK) wireless keyboard/trackpad combo, but any USB keyboard and mouse will do.
 * HDMI Cable - or the appropriate cable for the display you plan to use. The monitors here all have HDMI input, so we use HDMI-to-HDMI cables, but at home my monitor only has DVI input, so I use an HDMI-to-DVI cable. The Raspberry Pi 4 uses MicroHDMI, not full-size HDMI, so make sure you're purchasing the right cable. (This will probably be a [MicroHDMI-to-HDMI](https://www.amazon.com/AmazonBasics-Flexible-Micro-Cable-6-Foot/dp/B07KSDB25X/) or [MicroHDMI-to-DVI](https://www.amazon.com/StarTech-com-Micro-HDMI-DVI-D-Cable/dp/B00GJ406VY) cable).
 
+![plug notes](img/plug_notes.png)
+
+
 
 ### Other
 * [WiringPi](http://wiringpi.com/) - the utility for controlling the `gpio` pins.
