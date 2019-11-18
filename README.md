@@ -9,6 +9,20 @@ This repository will contain notes, images, and code samples for MakerspaceCT's 
 * bash
 * Python
 
+
+## Getting Set Up
+ The Raspberry Pi does not use a traditional hard drive for file storage. Instead, it uses a standard MicroSD card. Make sure any SD card you purchase is labelled "Class 10", to ensure it supports the high read/write speeds required by the Pi.
+ 
+ At this point, you should have been handed a microSD card flashed with the latest Raspbian operating system for the Raspberry Pi. 
+
+![insert SD card](img/insert_sd_card.gif)
+
+
+*Raspbian is free operating system based on [Debian](https://www.debian.org/) optimized for the Raspberry Pi hardware.*
+
+*Note: [Raspbian](https://rapsbian.org) is not affiliated with the Raspberry Pi Foundation. Raspbian was created by a small, dedicated team of developers that are fans of the Raspberry Pi hardware, the educational goals of the Raspberry Pi Foundation and, of course, the Debian Project.*
+
+
 ## Scratch2
 
 Scratch2 is a block-based, visual programming language developed by the MIT Media Lab's Lifelong Kindergarten Group. It is targeted primarily at children, teaching programming structure without the need for complex syntax.
@@ -16,6 +30,7 @@ Scratch2 is a block-based, visual programming language developed by the MIT Medi
 Scratch3 was released in early 2019, but browser-based-only at this time.
 
 ### Get started:
+
 Start by opening Scratch2
 
 *Raspberry Menu -> Programming -> Scratch2*
@@ -102,7 +117,7 @@ Open the IDLE IDE for Python (preloaded on your Raspberry Pi), which includes a 
 * 8GB+ MicroSD Card (Class 10) - Any "Class 10" or "UHS-I" will work fine. I have a bulk supplier I use, but these can be readily found from Amazon, Newegg, Best Buy, or a number of other retailers.
 * [5v, 2.5a MicroUSB Power Supply](https://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Listed/dp/B00MARDJZ4) - Again, this is not "THE" power supply to buy. You may have a cell phone charger that will function adequately. The important note is that the Raspberry Pi 3 Model B+ requires 2.5 Amps, so an older phone charger may not provide enough power. **If you are buying a Raspberry Pi 4, the kit above includes the appropriate power supply. This supply will not work with the Raspberry Pi 4.**
 * USB Keyboard/Mouse - I like the [Logitech K400](https://www.amazon.com/Logitech-Wireless-Keyboard-Control-Touchpad/dp/B014EUQOGK) wireless keyboard/trackpad combo, but any USB keyboard and mouse will do.
-* HDMI Cable - or the appropriate cable for the display you plan to use. The monitors here all have HDMI input, so we use HDMI-to-HDMI cables, but at home my monitor only has DVI input, so I use an HDMI-to-DVI cable. The Raspberry Pi 4 uses MicroHDMI, not full-size HDMI, so make sure you're purchasing the right cable.
+* HDMI Cable - or the appropriate cable for the display you plan to use. The monitors here all have HDMI input, so we use HDMI-to-HDMI cables, but at home my monitor only has DVI input, so I use an HDMI-to-DVI cable. The Raspberry Pi 4 uses MicroHDMI, not full-size HDMI, so make sure you're purchasing the right cable. (This will probably be a [MicroHDMI-to-HDMI](https://www.amazon.com/AmazonBasics-Flexible-Micro-Cable-6-Foot/dp/B07KSDB25X/) or [MicroHDMI-to-DVI](https://www.amazon.com/StarTech-com-Micro-HDMI-DVI-D-Cable/dp/B00GJ406VY) cable).
 
 
 ### Other
