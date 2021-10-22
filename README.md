@@ -11,16 +11,14 @@ This repository will contain notes, images, and code samples for MakerspaceCT's 
 
 
 ## Getting Set Up
- The Raspberry Pi does not use a traditional hard drive for file storage. Instead, it uses a standard MicroSD card. Make sure any SD card you purchase is labelled "Class 10", to ensure it supports the high read/write speeds required by the Pi.
+ The Raspberry Pi does not use a traditional hard drive for file storage*. Instead, it uses a standard MicroSD card. Make sure any SD card you purchase is labelled "Class 10", to ensure it supports the high read/write speeds required by the Pi.
  
- At this point, you should have been handed a microSD card flashed with the latest Raspbian operating system for the Raspberry Pi. 
+ At this point, you should have been handed a microSD card flashed with the latest Raspberry Pi OS operating system for the Raspberry Pi. 
 
 ![insert SD card](img/insert_sd_card.gif)
 
 
-*Raspbian is free operating system based on [Debian](https://www.debian.org/) optimized for the Raspberry Pi hardware.*
-
-*Note: [Raspbian](https://rapsbian.org) is not affiliated with the Raspberry Pi Foundation. Raspbian was created by a small, dedicated team of developers that are fans of the Raspberry Pi hardware, the educational goals of the Raspberry Pi Foundation and, of course, the Debian Project.*
+*Raspberry Pi OS is free operating system based on [Debian](https://www.debian.org/) optimized for the Raspberry Pi hardware.*
 
 
 ## Scratch2
