@@ -3,7 +3,7 @@
 * [LCD1602 Notes](./LCD1602_guide.md)
 
 
-This repository will contain notes, images, and code samples for MakerspaceCT's Intro to the Raspberry Pi course.
+This repository will contain notes, images, and code samples for an Intro to the Raspberry Pi course.
 
 * Scratch
 * bash
