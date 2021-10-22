@@ -101,7 +101,7 @@ Open the IDLE IDE for Python (preloaded on your Raspberry Pi), which includes a 
 
 
 ## What to buy:
-* [Raspberry Pi 3 Model B+](https://www.arrow.com/en/products/raspberrypi3b/raspberry-pi-foundation) - this is what we use in the classes at MakerspaceCT.
+* [Raspberry Pi 3 Model B+](https://www.arrow.com/en/products/raspberrypi3b/raspberry-pi-foundation) - this is what was used in class.
 
 **or**
 
